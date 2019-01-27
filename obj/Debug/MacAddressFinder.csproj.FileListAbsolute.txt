@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\MacAddressFinder\MacAddressFinder\bin\Debug\MacAddressFinder.exe.config
+C:\Users\chris\source\repos\MacAddressFinder\MacAddressFinder\bin\Debug\MacAddressFinder.exe
+C:\Users\chris\source\repos\MacAddressFinder\MacAddressFinder\bin\Debug\MacAddressFinder.pdb
+C:\Users\chris\source\repos\MacAddressFinder\MacAddressFinder\obj\Debug\MacAddressFinder.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\MacAddressFinder\MacAddressFinder\obj\Debug\MacAddressFinder.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\MacAddressFinder\MacAddressFinder\obj\Debug\MacAddressFinder.exe
+C:\Users\chris\source\repos\MacAddressFinder\MacAddressFinder\obj\Debug\MacAddressFinder.pdb
